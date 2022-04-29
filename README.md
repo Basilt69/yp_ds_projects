@@ -16,6 +16,6 @@ This repository containes my projects created during "Data Science Specialist" t
 |09|Linear algebra|The task is to protect customer data from "We're not afraid of the flood" insurance company developing a method to convert data so that it would be difficult to recover personal information|numpy, sciit-learn|
 |10|Numerical analysis|Predictiong of the cars market price using gradient boosting|lightgbm, sklearn|
 |11|Time series|Predictiong of the next hour taxi orders' number|statsmodels, lightgbm|
-|12|[Comments classifier](12_toxic_comments_project.ipynb)|Wikishop online store launches a new service. Now users can edit and supplement product descriptions, as in wiki communities. That is, clients offer their edits and comment on the changes of others. The store needs a tool that will search for toxic comments and send them for moderation|spacy,pandas, numpy, nltk, matplotlib,Catboost, LogisticRegression, SGDClassifier|
+|12|[Comments classifier](https://colab.research.google.com/github/Basilt69/yp_ds_projects/blob/main/12_toxic_comments_project.ipynb)|Wikishop online store launches a new service. Now users can edit and supplement product descriptions, as in wiki communities. That is, clients offer their edits and comment on the changes of others. The store needs a tool that will search for toxic comments and send them for moderation|spacy,pandas, numpy, nltk, matplotlib,Catboost, LogisticRegression, SGDClassifier|
 
 
