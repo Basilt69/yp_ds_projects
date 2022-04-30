@@ -1,6 +1,6 @@
 # Data science
 
-This repository containes my projects created during "Data Science Specialist" training program by Yandex Praktikum.
+This repository containes my projects created during "Data Science Specialist" training program by Yandex Praktikum.Should any of my projects display incorrectly, please open it with Google Colab link attached to the project. 
 
 |№|Title|Description|Libraries|
 |---|-----------|---------------------|----------|
