@@ -12,7 +12,7 @@ This repository containes my projects created during "Data Science Specialist" t
 |05|[Introduction to machine learning](05_clients_behaviour_predict.ipynb)|Tha main aim of the project is to create a model to predict tariff for a mobile operator client|scikit-learn, matplotlib, numpy, pandas|
 |06|[Supervised learning](06_contract_termination_prediction.ipynb)|The task of this project is on the basis of historical data to predict whether a client terminates the contract with the bank and leaves it|scikit-learn, matplotlib, numpy, pandas, seaborn, scipy, math|
 |07|[Machine learning in business](07_drill_region_predict.ipynb)|As part of the GlavRosGosNeft production company you need to decide which region fits for new drills. ML model shall help to identify the region with the hishest potential profit|scikit-learn,matplotlib, scipy, numpy|
-|08|Intermediate project - 2| Modeling of the recovery rate of gold from gold ore to help to optimize production not to run a plant with loss-making characteristics| scikit-learn, seaborn|
+|08|[Intermediate project - 2](08_gold_recovery_predict.ipynb)| Modeling of the recovery rate of gold from gold ore to help to optimize production not to run a plant with loss-making characteristics| scikit-learn, seaborn|
 |09|Linear algebra|The task is to protect customer data from "We're not afraid of the flood" insurance company developing a method to convert data so that it would be difficult to recover personal information|numpy, sciit-learn|
 |10|Numerical analysis|Predictiong of the cars market price using gradient boosting|lightgbm, sklearn|
 |11|Time series|Predictiong of the next hour taxi orders' number|statsmodels, lightgbm|
