@@ -15,7 +15,7 @@ This repository containes my projects created during "Data Science Specialist" t
 |08|[Intermediate project - 2](08_gold_recovery_predict.ipynb)| Modeling of the recovery rate of gold from gold ore to help to optimize production not to run a plant with loss-making characteristics| scikit-learn, seaborn|
 |09|[Linear algebra](09_insurance_clients_protection.ipynb)|The task is to protect customer data from "We're not afraid of the flood" insurance company developing a method to convert data so that it would be difficult to recover personal information|numpy, scikit-learn|
 |10|[Numerical analysis](10_car_price_predict.ipynb)|Predictiong of the cars market price using gradient boosting|lightgbm, sklearn|
-|11|Time series|Predictiong of the next hour taxi orders' number|statsmodels, lightgbm|
+|11|[Time series](11_taxi_booking_predict.ipynb)|Predictiong of the next hour taxi orders' number|statsmodels, lightgbm|
 |12|[Comments classifier](https://colab.research.google.com/github/Basilt69/yp_ds_projects/blob/main/12_toxic_comments_project.ipynb)|Wikishop online store launches a new service. Now users can edit and supplement product descriptions, as in wiki communities. That is, clients offer their edits and comment on the changes of others. The store needs a tool that will search for toxic comments and send them for moderation|spacy,pandas, numpy, nltk, matplotlib,Catboost, LogisticRegression, SGDClassifier|
 
 
